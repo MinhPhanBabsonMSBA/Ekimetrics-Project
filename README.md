@@ -109,25 +109,28 @@ These findings allow the brand to shift budget toward high-return activities and
 
 ## 📁 Project Structure
 
-Ekimetrics_Project/
-│
-├── data/
-│   └── final_database.csv                # Cleaned dataset for modeling
-│
-├── notebooks/
-│   ├── outdoor_campaigns.ipynb           # Weekly metrics for outdoor campaigns
-│   ├── facebook_imputation.ipynb         # Missing value treatment
-│   ├── youtube_outliers.ipynb            # Outlier handling
-│   └── Modeling_Workbook.ipynb           # Final marketing mix model
-│
-├── reports/
-│   └── beauty_sector_summary.pdf         # Industry discovery document
-│
-├── analysis/
-│   └── Analysis_Workbook.xlsx            # ROI & scenario evaluation
-│
-└── presentation/
-    └── Final_Presentation.pdf            # Business presentation to stakeholders
+**`Ekimetrics_Project/`**  
+A breakdown of all folders and key files in this marketing mix modeling project:
+
+- **`data/`**  
+  - `final_database.csv` — Cleaned and consolidated dataset used for modeling
+
+- **`notebooks/`**  
+  - `outdoor_campaigns.ipynb` — Creates weekly metrics for outdoor marketing  
+  - `facebook_imputation.ipynb` — Handles missing Facebook campaign data  
+  - `youtube_outliers.ipynb` — Identifies and corrects YouTube data outliers  
+  - `Modeling_Workbook.ipynb` — Final model with selected variables and regression output
+
+- **`reports/`**  
+  - `beauty_sector_summary.pdf` — Two-page industry discovery report
+
+- **`analysis/`**  
+  - `Analysis_Workbook.xlsx` — Excel-based ROI tool provided by Ekimetrics
+
+- **`presentation/`**  
+  - `Final_Presentation.pdf` — Final team presentation slide deck       
+
+
 
 ## 🧪 Tools Used
 
