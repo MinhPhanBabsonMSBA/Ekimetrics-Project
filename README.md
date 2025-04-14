@@ -108,26 +108,26 @@ These findings allow the brand to shift budget toward high-return activities and
 ---
 
 ## 📁 Project Structure
-Ekimetrics Project/
+
+Ekimetrics_Project/
 │
 ├── data/
-│   └── final_database.csv              # Cleaned dataset for modeling
+│   └── final_database.csv                # Cleaned dataset for modeling
 │
 ├── notebooks/
-│   ├── outdoor_campaigns.ipynb         # Weekly metrics for outdoor campaigns
-│   ├── facebook_imputation.ipynb       # Missing value treatment
-│   ├── youtube_outliers.ipynb          # Outlier handling
-│   └── Modeling_Workbook.ipynb         # Final marketing mix model
+│   ├── outdoor_campaigns.ipynb           # Weekly metrics for outdoor campaigns
+│   ├── facebook_imputation.ipynb         # Missing value treatment
+│   ├── youtube_outliers.ipynb            # Outlier handling
+│   └── Modeling_Workbook.ipynb           # Final marketing mix model
 │
 ├── reports/
-│   └── beauty_sector_summary.pdf       # Industry discovery document
+│   └── beauty_sector_summary.pdf         # Industry discovery document
 │
 ├── analysis/
-│   └── Analysis_Workbook.xlsx          # ROI & scenario evaluation
+│   └── Analysis_Workbook.xlsx            # ROI & scenario evaluation
 │
 └── presentation/
-└── Final_Presentation.pdf          # Business presentation to stakeholders
----
+    └── Final_Presentation.pdf            # Business presentation to stakeholders
 
 ## 🧪 Tools Used
 
