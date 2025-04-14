@@ -1,1 +1,1 @@
-# Ekimetrics-Project
+# Ekimetrics - Hope Street Cosmetic Project
